@@ -1,0 +1,3 @@
+Addi	5	A
+Shubham	5	A
+Rinku	5	A
